@@ -10,7 +10,7 @@
 ### ⚙Known technologies: 
   
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
-    * numpy, pandas, requests, BeautifulSoup
+    * numpy, pandas, requests, BeautifulSoup, sklearn
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> C
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java
   * <img height="20" width="20" src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg"/> SAS Code and SAS Studio
