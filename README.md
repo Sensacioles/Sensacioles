@@ -17,6 +17,8 @@
     * Visual Text Analytics, learning Visual Investigator
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> SQL
     * PostgreSQL
+    * MySQL
+    * Oracle
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> HTML
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> Linux OS and Shell
 ##
