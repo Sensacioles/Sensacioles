@@ -16,9 +16,7 @@
   * <img height="20" width="20" src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg"/> SAS Code and SAS Studio
     * Visual Text Analytics, learning Visual Investigator
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> SQL
-    * PostgreSQL
-    * MySQL
-    * Oracle
+    * PostgreSQL, MySQL, learning Oracle
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> HTML
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> Linux OS and Shell
 ##
