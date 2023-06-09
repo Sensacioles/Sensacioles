@@ -1,6 +1,6 @@
 ### 🍥 About me:
 
-- 👨‍💻 My name is Giovanni Sencioles, nice to meet you! I'm 21 years old, currently living in Vila Velha, Espírito Santo, Brazil;
+- 👨‍💻 My name is Giovanni Sencioles, nice to meet you! I'm 22 years old, currently living in Vila Velha, Espírito Santo, Brazil;
 - 📚 Junior data scientist and information systems undergraduate. Planning on studying game development;
 - 🌱 Currently learning more about data and text analytics. Developing my skills with SAS Code and SAS Studio, mainly Visual Text Analytics and Visual Investigator;
 - 🤝 Looking to collaborate on data science projects;
