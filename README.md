@@ -1,7 +1,7 @@
 ### 🍥 About me:
 
 - 👨‍💻 My name is Giovanni Sencioles, nice to meet you! I'm 22 years old, currently living in Vila Velha, Espírito Santo, Brazil;
-- 📚 Junior data scientist and information systems undergraduate. Planning on studying game development;
+- 📚 Junior data scientist and information systems undergraduate. Planning on studying game development and prosthetics engineering in the future;
 - 🌱 Currently learning more about data and text analytics. Developing my skills with SAS Code and SAS Studio, mainly Visual Text Analytics and Visual Investigator;
 - 🤝 Looking to collaborate on data science projects;
 - 🧠 Fun facts: Coffee and videogame addicted. I have a cat named Zelda and my favorite color is black.
@@ -18,6 +18,7 @@
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> SQL
     * PostgreSQL, MySQL, Oracle
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> HTML
+    * Currently learning CSS and JavaScript
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> Linux OS and Shell
 ##
 ### 📫 How to reach me: 
