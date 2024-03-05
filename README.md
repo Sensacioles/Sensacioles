@@ -1,9 +1,9 @@
 ### 🍥 About me:
 
-- 👨‍💻 My name is Giovanni Sencioles, nice to meet you! I'm 22 years old, currently living in Vila Velha, Espírito Santo, Brazil;
-- 📚 Junior data scientist and information systems undergraduate. Planning on studying game development and prosthetics engineering in the future;
-- 🌱 Currently learning more about data and text analytics. Developing my skills with SAS Code and SAS Studio, mainly Visual Text Analytics and Visual Investigator;
-- 🤝 Looking to collaborate on data science projects;
+- 👨‍💻 My name is Giovanni Sencioles, nice to meet you! I'm 23 years old, currently living in Vila Velha, Espírito Santo, Brazil;
+- 📚 Junior data scientist and Technologies in Internet Systems undergraduate. Planning on studying game development and prosthetics engineering in the future;
+- 🌱 Currently learning more about e-mail automation and cybersecurity. Developing my skills with SAS Code and SAS Studio, mainly its automation processes and metadata engine;
+- 🤝 Looking to collaborate on data science or automation projects;
 - 🧠 Fun facts: Coffee and videogame addicted. I have a cat named Zelda and my favorite color is black.
 
 ##
@@ -14,7 +14,7 @@
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> C
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java
   * <img height="20" width="20" src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg"/> SAS Code, SAS Viya, SAS Studio
-    * Visual Text Analytics (VTA), Visual Analytics (VA), Visual Investigator (VI). Currently studying the metadata engine
+    * Visual Text Analytics (VTA), Visual Analytics (VA), Visual Investigator (VI). Currently studying SAS metadata engine
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> SQL
     * PostgreSQL, MySQL, Oracle
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> HTML, CSS 
