@@ -14,11 +14,11 @@
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> C
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java
   * <img height="20" width="20" src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg"/> SAS Code, SAS Viya, SAS Studio
-    * Visual Text Analytics (VTA), Visual Analytics (VA), currently learning Visual Investigator (VI)
+    * Visual Text Analytics (VTA), Visual Analytics (VA), Visual Investigator (VI). Currently studying the metadata engine
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> SQL
     * PostgreSQL, MySQL, Oracle
-  * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> HTML
-    * Currently learning CSS and JavaScript
+  * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> HTML, CSS 
+    * Currently learning JavaScript
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> Linux OS and Shell
 ##
 ### 📫 How to reach me: 
