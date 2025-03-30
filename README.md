@@ -1,10 +1,10 @@
 ### 🍥 About me:
 
-- 👨‍💻 My name is Giovanni Sencioles, nice to meet you! I'm 23 years old, currently living in Vila Velha, Espírito Santo, Brazil;
-- 📚 Junior data scientist and Technologies in Internet Systems undergraduate. Planning on studying game development and prosthetics engineering in the future;
-- 🌱 Currently learning more about e-mail automation and cybersecurity. Developing my skills with SAS Code and SAS Studio, mainly its automation processes and metadata engine;
+- 👨‍💻 My name is Giovanni Sencioles, nice to meet you! I'm 24 years old, currently living in Vila Velha, Espírito Santo, Brazil;
+- 📚 Junior data scientist and Technologies in Internet Systems undergraduate. Currently studying game development and planing on getting into prosthetics engineering in the future;
+- 🌱 Studying about cybersecurity and chatbot development. Developing my skills with SAS Code, SAS Studio and SAS Model Manager;
 - 🤝 Looking to collaborate on data science or automation projects;
-- 🧠 Fun facts: Coffee and videogame addicted. I have a cat named Zelda and my favorite color is black.
+- 🧠 Fun facts: Coffee and videogame addicted. I have a cat named Zelda and my favorite color is black. My favorite games are The Legend of Zelda: Majora's Mask, Nier Replicant and Cyberpunk 2077. My favorite movies are Howl's Moving Castle and the LOTR trilogy. 
 
 ##
 ### ⚙Known technologies: 
