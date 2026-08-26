@@ -7,7 +7,7 @@
 - 🧠 Fun facts: Coffee and videogame addicted. I have a cat named Zelda and my favorite color is black. My favorite games are The Legend of Zelda: Majora's Mask, Nier Replicant and Cyberpunk 2077. My favorite movies are Howl's Moving Castle and the LOTR trilogy. 
 
 ##
-### ⚙Known technologies: 
+### ⚙ Known technologies: 
   
   * <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
     * Matplotlib, Numpy and Pandas for data analysis and plotting;
